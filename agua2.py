@@ -127,6 +127,7 @@
    "source": [
     "if __name__ == '__main__':\n",
     "   app.run_server(debug=True)\n"
+    "  streamlit run agua2.py"
    ]
   },
   {
